@@ -1,1 +1,1 @@
-This is a basic recipe website. It currently includes 3 popular recipes.  
+This is a basic recipe website. It currently includes 3 popular recipes. These recipes have their own color themes. Work in progress.
